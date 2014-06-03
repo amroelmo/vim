@@ -1,4 +1,5 @@
 vim
 ===
 
-My Vim files
+Copy of my vim files.
+
